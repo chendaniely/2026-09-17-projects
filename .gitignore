@@ -1,0 +1,6 @@
+/.quarto/
+/_site/
+*_files/
+*_cache/
+index.html
+.DS_Store

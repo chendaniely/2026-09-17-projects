@@ -1,0 +1,20 @@
+---
+title: "2026-09-17 Projects"
+author: "Dan Chen"
+date: today
+format: revealjs
+---
+
+## Welcome
+
+A minimal reveal.js presentation built with Quarto.
+
+## Second Slide
+
+- Bullet one
+- Bullet two
+- Bullet three
+
+## Thanks!
+
+This site is published with GitHub Pages.
